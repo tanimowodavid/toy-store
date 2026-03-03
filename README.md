@@ -1,4 +1,4 @@
-# Toy store
+# Planet Inc
 
 A Django-based e-commerce backend built as my last project during the alx prodev backend engineering program. The project demonstrates building production-ready APIs, worker-based background processing, semantic product search, and secure payment integration.
 
